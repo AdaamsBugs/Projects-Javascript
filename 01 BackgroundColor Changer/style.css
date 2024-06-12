@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'panchang';
+    
+    color: rgb(29, 55, 78);
+}
+h1{
+   text-align: center;
+   margin-top: 3%;
+}
+.clors{
+    margin-left:35%;
+    margin-top: 200px;
+    
+}
+
+#black{
+  background-color: #010b13;
+  height: 100px;
+  width:  100px;
+} 
+#green{
+  background-color: #102f3b;
+  height: 100px;
+  width:  100px;
+} 
+#red{
+  background-color: #96071f;
+  height: 100px;
+  width:  100px;
+} 
+#orange{
+  background-color: #522920;
+  height: 100px;
+  width:  100px;
+} 
