@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'AKONY';
+}
+.icon{
+    width: 50px;
+    padding-left: 10px;
+    
+}
+.contant{
+    padding-top: 10px;
+   display: flex;
+   width: 500px;
+   margin: 200px auto;
+   background-color: #E4E7D4;
+}
+.details{
+    display: flex;
+}
+#text{
+    padding-top: 10px;                       ;
+   
+    font-size: 25px;
+    padding-left: 10px;
+}
